@@ -7,4 +7,5 @@ Haarcascade classifier was used to detect the faces and get the bounding boxes a
 
 
 dataset link:-https://drive.google.com/file/d/1mdGtZRqQWR5ivfpCgjx2rTTSXcd-2UNB/view?usp=sharing
-Published Paper:- Patel, Chintan, et al. "Mask detection as Covid combat using Transfer learning and Haar Cascade." (2021).
+Published Paper:- Vaishya, Simran, et al. "Mask detection as Covid combat using Transfer learning and Haar Cascade." (2021).
+Paper Link: https://www.ijraset.com/best-journal/mask-detection-as-covid-combat-using-transfer-learning
